@@ -1,0 +1,22 @@
+#header {
+    display: none;
+}
+
+body.viewing {
+    height: 5000px;
+}
+
+#viewports {
+    height: 5000px;
+    top: 0px;
+    overflow: auto;
+}
+
+#footer {
+    display: none;
+}
+
+#iframescontainer {
+    height: 5000px;
+}
+

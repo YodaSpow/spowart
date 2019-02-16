@@ -1,0 +1,20 @@
+------- Master Template Contents ---------------------------------------------------------------->
+
+Use Currys Master template for build options.
+Replace CSS with PCW CSS.
+
+<link href="master.css" rel="stylesheet" type="text/css" /><!-- DELETE AFTER TEST or email will glitch -->
+
+-------------------------------------------------------------------------------------------------
+PCW CTA Links template: 
+-------------------------------------------------------------------------------------------------
+O:\Email Campaigns\_Assets\Buttons and other
+O:/Email%20Campaigns/_Assets/Buttons%20and%20other/Currys_And_PCWorld_Assets.html
+
+-------------------------------------------------------------------------------------------------
+Image paths:
+All images for campaigns sit in PCW Prod 2 FTP: 
+
+Example Image paths:
+http://pcw-ng.cdn.e-merchant.com/css/themes/email/2013-2014/wk35/janSale/nom1.jpg
+-------------------------------------------------------------------------------------------------

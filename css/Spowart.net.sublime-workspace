@@ -1,0 +1,554 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/spowart/Dropbox/# Important documents/Outgoings.txt",
+			"settings":
+			{
+				"buffer_size": 712,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/spowart/Dropbox/www"
+	],
+	"file_history":
+	[
+		"/Users/spowart/Dropbox/www/index.html",
+		"/Users/spowart/Dropbox/www/contact.html",
+		"/Users/spowart/Dropbox/www/css/style.css",
+		"/Users/spowart/Dropbox/# Important documents/Outgoings.txt",
+		"/Users/spowart/Dropbox/www/graphics.html",
+		"/Users/spowart/Dropbox/www/email.html",
+		"/Users/spowart/Dropbox/www/web.html",
+		"/Users/spowart/Dropbox/Litmus and ebooks/TV Litmus contest/Data creative/m3_v6.html",
+		"/Users/spowart/Dropbox/# Important documents/ClearSky - contracts/Overview Dixons.txt",
+		"/Users/spowart/Downloads/v2/v3.html",
+		"/Applications/DVDpedia.app/Contents/Resources/Templates/FancyIndex.html",
+		"/Applications/DVDpedia.app/Contents/Resources/Templates/Images/FancyIndexImages/tablesorter/style.css",
+		"/Applications/DVDpedia.app/Contents/Resources/Templates/FancyIndexDetails2.html",
+		"/Applications/DVDpedia.app/Contents/Resources/Templates/FancyIndex2.html",
+		"/Users/spowart/Library/Application Support/DVDpedia/Templates/MyFancyIndexDetails2.html",
+		"/Users/spowart/Library/Application Support/DVDpedia/Templates/MyFancyIndex2.html",
+		"/Users/spowart/Dropbox/# Important documents/General Docs : Receipts/Purchases/DVDPedia/DVDpedia/SpowartIndexDetails.html",
+		"/Users/spowart/Dropbox/# Important documents/General Docs : Receipts/Purchases/DVDPedia/DVDpedia/SpowartIndex-Year.html",
+		"/Users/spowart/Dropbox/# Important documents/General Docs : Receipts/Purchases/DVDPedia/DVDpedia/SpowartIndex-WORKING.html",
+		"/Users/spowart/Dropbox/# Important documents/General Docs : Receipts/Purchases/DVDPedia/DVDpedia/core/tablesorter/style.css",
+		"/Users/spowart/Dropbox/# Important documents/General Docs : Receipts/Purchases/DVDPedia/DVDpedia/core/additional.css",
+		"/Users/spowart/Dropbox/# Important documents/General Docs : Receipts/Purchases/DVDPedia/DVDpedia/core/fi.css",
+		"/Users/spowart/Dropbox/# Important documents/General Docs : Receipts/Purchases/DVDPedia/DVDpedia/core/print.css",
+		"/Users/spowart/Dropbox/# Important documents/General Docs : Receipts/Purchases/DVDPedia/DVDpedia/core/fi.js",
+		"/Users/spowart/Dropbox/# Important documents/General Docs : Receipts/Purchases/DVDPedia/DVDpedia/core/fi.shared.js",
+		"/Users/spowart/Dropbox/# Important documents/General Docs : Receipts/Purchases/DVDPedia/DVDpedia/SpowartIndex.html",
+		"/Users/spowart/Dropbox/# Important documents/List.txt",
+		"/Users/spowart/Dropbox/# Important documents/General Docs : Receipts/Purchases/DVDPedia/DVDpedia/HTML templates/SpowartIndex-WORKING.html",
+		"/Users/spowart/Dropbox/www/scripts/core.js",
+		"/Volumes/500GB HD/# backup3/The Ballad of Narayama (1983)/The.Ballad.of.Narayama.1983.x264.DTS-WAF.mkv.vol0+1.PAR2",
+		"/3Droom.css",
+		"/Users/spowart/Dropbox/Dixons Work/Video/wk45 FRI Currys/wk45_Currys_WKP_FRI_v5.html",
+		"/Users/spowart/Downloads/yoda.json",
+		"/Users/spowart/Dropbox/Dixons Work/Video/wk45 FRI Currys/wk45_Currys_WKP_FRI_v5_LITMUS_ONLY.html",
+		"/Users/spowart/Dropbox/Dixons Work/Video/fixAndroid_FixMSO_v4.html",
+		"/Users/spowart/Dropbox/Dixons Work/Video/not used/fixAndroid_v2.html",
+		"/Users/spowart/Dropbox/Dixons Work/Video/not used/index.html",
+		"/Users/spowart/Dropbox/Dixons Work/Video/fixAndroid_v2.html",
+		"/Users/spowart/Desktop/index2.html",
+		"/Users/spowart/Dropbox/# Important documents/ClearSky/Contracts/Dixons/Spowart Media Ltd",
+		"/Users/spowart/Dropbox/# Important documents/ClearSky/Overview Dixons.txt",
+		"/Users/spowart/Dropbox/Dixons/## Contracting stuff/Spowart Media Ltd",
+		"/Users/spowart/Dropbox/# Important documents/ClearSky/Dixons/## Contracting stuff/Overview 2nd Contract.txt",
+		"/Users/spowart/Dropbox/www/New/mountains3-MASTER.txt",
+		"/Users/spowart/Dropbox/Taxi_Morzine.txt",
+		"/Users/spowart/Desktop/xxx.html",
+		"/Users/spowart/Dropbox/Dixons/## Contracting stuff/Overview 2nd Contract.txt",
+		"/Users/spowart/Dropbox/Public/mime-attachment.eml",
+		"/Users/spowart/Dropbox/Public/grab.html",
+		"/Users/spowart/Dropbox/Freelance/DS4 MOBILE EMAIL/DS4 MOBILE EMAIL/DS4 Mobile Email.html",
+		"/Users/spowart/Dropbox/www/films/wp-config.php",
+		"/Users/spowart/Desktop/debugged.html",
+		"/Users/spowart/Dropbox/www/ - Copy.htaccess",
+		"/Users/spowart/Dropbox/www/#yoda",
+		"/Users/spowart/Dropbox/www/flashsite/css/portfolio.css",
+		"/Users/spowart/Dropbox/www/emails/wk27/iPadAir/iPadAir.html",
+		"/Users/spowart/Dropbox/www/New/App for SVG/svgo-gui.app/Contents/Resources/app.nw/package.json",
+		"/Users/spowart/Dropbox/Sites/Club Golf Consultancy/web/clients/index.html",
+		"/Users/spowart/Dropbox/www/#yoda.css",
+		"/Users/spowart/Dropbox/www/tests/specimen_files/grid_12-825-55-15.css",
+		"/Users/spowart/Dropbox/www/web2.html",
+		"/Users/spowart/Dropbox/www/css/fontawesome.css",
+		"/Users/spowart/Dropbox/www/emails/wk30/evokit_animated/index.html",
+		"/Users/spowart/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/spowart/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/spowart/Dropbox/www/scss/Installed.txt",
+		"/Users/spowart/Library/Application Support/Sublime Text 3/Packages/User/Monokai Soda.tmTheme"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"red",
+			"<i class=\"icon-link\">",
+			"icon",
+			"Currys",
+			"currys",
+			"9e9e9e",
+			"Headerbg2",
+			"dw2",
+			"Category",
+			"nom",
+			"storeNearest",
+			"look",
+			"http://currys.cdn.dixons.com/css/themes/email/Assets/wswy/buy_or_reserve.gif",
+			"http://currys.cdn.dixons.com/css/themes/email/Assets/wswy/arrow4x.png",
+			"http://currys.cdn.dixons.com/css/themes/email/Assets/empty.gif",
+			"even",
+			"eve",
+			"imdb",
+			"dura",
+			"details/page",
+			"../Images",
+			"Images",
+			"video",
+			"scr",
+			"3D",
+			" 540px",
+			" 520px",
+			" 500px",
+			" 480px",
+			" 460px",
+			" 440px",
+			" 420px",
+			" 400px",
+			" 380px",
+			" 360px",
+			" 340px",
+			" 220px",
+			" 200px",
+			"-80px",
+			"-100px",
+			"-120px",
+			" 260px",
+			" 240px",
+			" 180px",
+			" 0px",
+			"-60px",
+			"-140px",
+			" 320px",
+			" 300px",
+			" 280px",
+			" 160px",
+			" 140px",
+			" 120px",
+			" 100px",
+			" 80px",
+			" 60px",
+			" 20px",
+			" 5px",
+			"-10px",
+			"-20px",
+			"-40px",
+			"-160px",
+			"-180px",
+			" 40px",
+			"-200px",
+			" 300px",
+			" 140px",
+			"-180px",
+			" 120px",
+			" 100px",
+			" 80px",
+			" 60px",
+			" 40px",
+			"-20px",
+			" 20px",
+			" 540px",
+			" 520px",
+			" 500px",
+			" 480px",
+			" 460px",
+			" 440px",
+			" 420px",
+			" 400px",
+			" 380px",
+			" 360px",
+			" 340px",
+			" 220px",
+			" 200px",
+			"-80px",
+			"-100px",
+			"-120px",
+			" 260px",
+			" 240px",
+			" 180px",
+			" 0px",
+			"-60px",
+			"-140px",
+			" 320px",
+			" 280px",
+			" 160px",
+			" 5px",
+			"-10px",
+			"-20px",
+			"-160px",
+			"-180px",
+			" 10em",
+			"-200px",
+			" 300px",
+			" 140px",
+			" 120px",
+			" 100px",
+			" 80px",
+			" 60px",
+			" 20px",
+			"-40px",
+			" 40px",
+			"emma"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" 27em",
+			" 26em",
+			" 25em",
+			" 24em",
+			" 23em",
+			" 22em",
+			" 21em",
+			" 20em",
+			" 19em",
+			" 18em",
+			" 17em",
+			" 11em",
+			" 10em",
+			"-4em",
+			"-5em",
+			"-6em",
+			" 13em",
+			" 12em",
+			" 9em",
+			" 0",
+			"-3em",
+			"-7em",
+			" 16em",
+			" 15em",
+			" 14em",
+			" 8em",
+			" 7em",
+			" 6em",
+			" 5em",
+			" 4em",
+			" 3em",
+			" 1em",
+			" 0.25em",
+			"-0.5em",
+			"-1em",
+			"-2em",
+			"-8em",
+			"-9em",
+			" 2em",
+			"-10em",
+			" 15em",
+			" 7em",
+			"-9em",
+			" 6em",
+			" 5em",
+			" 4em",
+			" 3em",
+			" 2em",
+			"-1em",
+			" 1em",
+			"1em",
+			" 27em",
+			" 26em",
+			" 25em",
+			" 24em",
+			" 23em",
+			" 22em",
+			" 21em",
+			" 20em",
+			" 19em",
+			" 18em",
+			" 17em",
+			" 11em",
+			" 10em",
+			"-4em",
+			"-5em",
+			"-6em",
+			" 13em",
+			" 12em",
+			" 9em",
+			" 0",
+			"-3em",
+			"-7em",
+			" 16em",
+			" 14em",
+			" 8em",
+			" 0.25em",
+			"-0.5em",
+			"-1em",
+			"-8em",
+			"-9em",
+			"-10em",
+			" 10em",
+			" 15em",
+			" 7em",
+			" 6em",
+			" 5em",
+			" 4em",
+			" 3em",
+			" 2em",
+			"-2em",
+			" 2em",
+			"40px"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/spowart/Dropbox/# Important documents/Outgoings.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 712,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								46,
+								46
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Spowart.net.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,38 @@
+------- Master Template Contents ---------------------------------------------------------------->
+
+-------------------------------------------------------------------------------------------------
+PCWB CTA Links template: (Use PC World CTAs)
+-------------------------------------------------------------------------------------------------
+O:\Email Campaigns\_Assets\Buttons and other
+O:/Email%20Campaigns/_Assets/Buttons%20and%20other/Currys_And_PCWorld_Assets.html
+
+-------------------------------------------------------------------------------------------------
+Image paths:
+All images for campaigns sit in PCW Prod 2 FTP: 
+Sub-Folder: "PCWB"
+
+Example Image paths:
+http://pcw-ng.cdn.e-merchant.com/css/themes/email/PCWB/2013-2014/wk25/store_support/header_BNR_650x240.jpg
+-------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------
+When to use Smart Plan:
+Any Nom with a price over £300 inc VAT needs Smart plan.
+Software never gets a Smart Plan.
+-------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------
+Tracking path:
+http://www.pcworldbusiness.co.uk/?utm_campaign=%%=v(@CampaignName)=%%&utm_medium=email&utm_source=PCWB_wk%%WeekNo%%&utm_term=%%=v(@EMtype)=%%&utm_content=TopLogo
+
+Important: Replace ? with & only if the URL includes a ? as a query
+(Otherwise link will be broken.)
+------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------
+Mobile CSS tips:
+For spacer sections on desktop to Device use "hidemob1"
+to collapse/remove redundant sections down for Devices:
+
+<tr class="hidemob1">
+------------------------------------------------------------------------------------------------

@@ -1,0 +1,81 @@
+article figure {
+	max-width:789px;
+	margin:0;
+	padding:0;
+}
+
+article figure a {
+	width:256px;
+	height:64px;
+	margin:0 0 5px 5px;
+	float:left;
+	display:block;
+	border:1px solid #9d9c9c;
+	background:url("../assets/seasons-sprite.jpg") no-repeat scroll 0 0 transparent;
+}
+article figure a:hover {
+	border:1px solid #000000;
+}
+
+article figure .prod1 {background-position:0 0;}
+article figure .prod2 {background-position:-256px 0;}
+article figure .prod3 {background-position:-512px 0;}
+
+article figure .prod4 {background-position:0 -64px;}
+article figure .prod5 {background-position:-256px -64px;}
+article figure .prod6 {background-position:-512px -64px;}
+
+article figure .prod7 {background-position:0 -128px;}
+article figure .prod8 {background-position:-256px -128px;}
+article figure .prod9 {background-position:-512px -128px;}
+
+
+
+/* 
+
+Each: 256x64 
+x9
+Sprite: 768x192
+		
+*/
+
+
+/*
+
+<i class="icon-desktop"></i>							
+<i class="icon-laptop"></i>
+<i class="icon-tablet"></i>
+<i class="icon-mobile-phone"></i>
+
+*/
+
+
+
+/*
+
+	.hero article header {
+	height:auto;
+	margin:1% 0 0;
+	}
+	.hero article header > h2 {
+	width:25%;
+	height:auto;
+	}
+	.hero article header > ul {
+	width:100%;
+	float:none;
+	display:inline-block;
+	position:relative;
+	bottom:0;
+	left:0;
+	}
+	.hero article header > ul li {
+	width:100%;
+	padding:6px 0;
+	margin:0;
+	float:none;
+	}
+
+*/
+
+

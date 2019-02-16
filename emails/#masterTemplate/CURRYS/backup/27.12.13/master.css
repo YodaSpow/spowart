@@ -1,0 +1,111 @@
+.ReadMsgBody { width: 100%; background-color: #ffffff; }
+.ExternalClass { width: 100%; background-color: #ffffff; }
+body { width: 100%; background-color: #ffffff; margin: 0; padding: 0; -webkit-font-smoothing: antialiased; font-family: Arial, Helvetica, sans-serif; font-size: 10px; }
+table { border-collapse: collapse; }
+div, p, a, li, td { -ms-text-size-adjust: none; }
+ @media only screen and (min-width: 0px) and (max-width: 640px) {
+body[yahoo] .font11 { font-size: 11px !important; } 
+body[yahoo] .nomTitle { height: auto!important; padding: 0 0 5px 0; }
+body[yahoo] .nomTitle a { font-size: 16px!important; line-height: 1.1em!important; }
+body[yahoo] .nomTitle br, .clearBr br { display: none!important; }
+body[yahoo] .mobileHeaders { font-size: 16px!important; padding: 0px 0px 4px 0px!important; }
+body[yahoo] .midNom { padding: 30px 0px 30px 0px; }
+body[yahoo] .twopad { padding: 30px 0px 0px 0px; }	 
+body[yahoo] .widthAuto { width: auto!important; }
+body[yahoo] .heightAuto { height: auto!important; }
+body[yahoo] .marginZero { margin: 0px!important; }
+body[yahoo] .moreCta { height: 28px; }
+body[yahoo] .ctaTxt:before { content: "Start shopping now"; }
+body[yahoo] .ctaTxt1:before { content: "More info"; }
+body[yahoo] .ctaTxt2:before { content: "Buy or reserve"; }
+body[yahoo] .peak_cta { display: block!important; font-size: 14px!important; font-weight: bold!important; padding: 12px!important; line-height: 18px!important; color: #ffffff; vertical-align: middle; border: 1px solid #ccc; border: 1px solid rgba(0,0,0,0.15); min-height: 18px; min-width: 20px; max-width: 70%; margin: 0 auto; text-shadow: 0 -1px rgba(0,0,0,0.8); text-align: center; text-decoration: none; background: #e01e3e; background: -moz-linear-gradient(top,  #e01e3e 0%, #bb0b28 100%); background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e01e3e), color-stop(100%,#bb0b28)); background: -webkit-linear-gradient(top,  #e01e3e 0%,#bb0b28 100%); background: -o-linear-gradient(top,  #e01e3e 0%,#bb0b28 100%); background: -ms-linear-gradient(top,  #e01e3e 0%,#bb0b28 100%); background: linear-gradient(to bottom,  #e01e3e 0%,#bb0b28 100%); -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2), 0 1px 0 rgba(255,255,255,0.2); box-shadow: inset 0 1px 0 rgba(255,255,255,0.2), 0 1px 0 rgba(255,255,255,0.2); }
+body[yahoo] .currys_cta { display: block!important; font-size: 14px!important; font-weight: bold!important; padding: 12px!important; line-height: 18px!important; color: #ffffff; vertical-align: middle; border: 1px solid #ccc; border: 1px solid rgba(0,0,0,0.15); min-height: 18px; min-width: 20px; max-width: 70%; margin: 0 auto; text-shadow: 0 -1px rgba(0,0,0,0.8); text-align: center; text-decoration: none; background: #0c347b; background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #00539f), color-stop(1, #2f2266)); background: -webkit-linear-gradient(top, #00539f 0, #2f2266 100%); background: -moz-linear-gradient(top, #00539f 0, #2f2266 100%); background: -o-linear-gradient(top, #00539f 0, #2f2266 100%); background: -ms-linear-gradient(top, #00539f 0, #2f2266 100%); background: linear-gradient(top, #00539f 0, #2f2266 100%); -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2), 0 1px 0 rgba(255,255,255,0.2); box-shadow: inset 0 1px 0 rgba(255,255,255,0.2), 0 1px 0 rgba(255,255,255,0.2); }
+body[yahoo] .green_cta { display: block!important; font-size: 14px!important; font-weight: bold!important; padding: 12px!important; line-height: 18px!important; color: #ffffff; vertical-align: middle; border: 1px solid #ccc; border: 1px solid rgba(0,0,0,0.2); min-height: 18px; min-width: 110px; max-width: 40%; margin: 0 auto; text-shadow: 0 -1px 0 rgba(0,0,0,0.5); text-align: center; text-decoration: none; background: #4b9626; background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #6aba25), color-stop(1, #4b9626)); background: -webkit-linear-gradient(top, #6aba25 0, #4b9626 100%); background: -moz-linear-gradient(top, #6aba25 0, #4b9626 100%); background: -o-linear-gradient(top, #6aba25 0, #4b9626 100%); background: -ms-linear-gradient(top, #6aba25 0, #4b9626 100%); background: linear-gradient(top, #6aba25 0, #4b9626 100%); background: -o-linear-gradient(top, #6aba25 0, #4b9626 100%); -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,0.4), 0 1px 0 rgba(255,255,255,0.8); box-shadow: inset 0 1px 0 rgba(255,255,255,0.4), 0 1px 0 rgba(255,255,255,0.8); }
+
+/* Editable below */	 
+body[yahoo] .hideborder { border-left: none!important; }
+body[yahoo] .twopad1 { padding: 10px 0px 0px 0px; }
+body[yahoo] .pad15top { padding: 15px 0px 0px 0px; }
+body[yahoo] .Reevoo .padbot2 { padding-bottom: 2px!important; }
+body[yahoo] .Reevoo table tr td ~ td { padding-left: 4px; height: 20px!important; }
+body[yahoo] .Reevoo table tr td ~ td > table tr td:first-of-type td { font-size: 12px!important; font-weight: bold; padding: 0px 0px 0px 5px!important; }
+/* iPhone */
+body[yahoo] .iphonePadc { padding-top: 0px!important; }
+body[yahoo] .iphoneCopy br {display:none!important;}
+body[yahoo] .ctapos {width:100%!important;margin:0 0 20px 0;}
+/* iPad Air */
+body[yahoo] .midImgHero { padding:25px 0px 25px 0px!important; }
+body[yahoo] .ipadCopy br {display:none!important;}
+/* Banner swaps */
+body[yahoo] .mobHead { display: block!important; background-repeat: no-repeat!important; background-image: url("http://placehold.it/440x240/00b0e8/ffffff&text=Swap+-+440x240"); }
+body[yahoo] .khBanner { display: block!important; background-repeat: no-repeat!important; background-image: url("http://placehold.it/440x280/00b0e8/ffffff&text=BOTBNR+-+440x280"); }
+}
+ @media only screen and (max-width: 640px) {
+body[yahoo] .deviceWidth { width: 440px!important; height: auto!important; }
+body[yahoo] .deviceWidth2 { width: 220px!important; }
+body[yahoo] .deviceWidth3 { width: 400px!important; }
+body[yahoo] .AccessWidth { width: 219px!important; height: auto!important; }
+body[yahoo] .center { text-align: center!important; }
+body[yahoo] .hidemob1 { display: none!important; }
+body[yahoo] .hidebutton { display: none!important; }
+
+/* Editable below */
+body[yahoo] .didyouknow { width: 400px!important; height: auto!important; }
+body[yahoo] .didyouknowWidth { width: 253px!important; }
+body[yahoo] .didyouknowWidth1 { width: 233px!important; }
+body[yahoo] .heroWidth { width:320px!important; }
+body[yahoo] .tabPad { padding:44px 0px 0px 0px!important; }
+/* iPhone */
+body[yahoo] .iphonePad { padding-top: 50px!important; }
+body[yahoo] .iphone5 { width: 270px!important; }
+body[yahoo] .heroImgc { width: 160px!important; height: auto!important; }
+body[yahoo] .iphoneCopy { font-size: 13px!important; line-height: 20px!important; padding: 10px 0px 10px 0px!important; }
+/* iPad Air */
+body[yahoo] .ctaAirpos {margin:0 0 20px 0;}
+body[yahoo] .ipadAir { width: 270px!important; }
+body[yahoo] .ipadCopy { font-size: 13px!important; line-height: 20px!important; padding: 0px 0px 20px 0px!important; }
+/* Banner swaps */
+body[yahoo] .mobHead { height: 240px!important; }
+body[yahoo] .khBanner { height: 280px!important; }
+}
+ @media only screen and (max-width: 479px) {
+body[yahoo] .deviceWidth { width: 280px!important; height: auto!important; }
+body[yahoo] .deviceWidth2 { width: 280px!important; }
+body[yahoo] .deviceWidth3 { width: 240px!important; }
+body[yahoo] .AccessWidth { width: 139px!important; height: auto!important; }
+body[yahoo] .center { text-align: center!important; }
+body[yahoo] .hidemob1 { display: none!important; }
+body[yahoo] .hidemob2 { display: none!important; }
+body[yahoo] .hidebutton { display: none!important; }
+body[yahoo] .globalhide { display: block!important; }
+
+/* Editable below */
+body[yahoo] .reevooH td { float: right; padding: 10px 0px 0px 0px!important; }
+body[yahoo] .reevooH td ~ td { padding: 0px 0px 10px 0px!important; }
+body[yahoo] .reevooH td img { height: auto!important; max-width: 60%; }
+body[yahoo] .didyouknow { width: 240px!important; height: auto!important; }
+body[yahoo] .didyouknowWidth { width: 93px!important; }
+body[yahoo] .didyouknowWidth1 { width: 73px!important; }
+body[yahoo] .tabPad { padding:15px 0px 0px 0px!important; }
+body[yahoo] .heroWidth { width:180px!important; }
+body[yahoo] .mobHero { max-width:90px!important; height:auto!important; }
+body[yahoo] .mobSpec { max-width:45px!important; height:auto!important; }
+/* iPhone */
+body[yahoo] .heroImg { width: 100px!important; height: auto!important; margin:30px 0px 0px 0px; }
+body[yahoo] .heroImgc { width: 100px!important; height: auto!important; margin:80px 0px 0px 0px; }
+body[yahoo] .logoImg { width: 165px!important; height: auto!important; }
+body[yahoo] .iphonePad { padding-top: 5px!important; }
+body[yahoo] .iphone5 { width: 165px!important; }
+body[yahoo] .iphoneCopy { font-size: 13px!important; line-height: 20px!important; }
+/* iPad Air */
+body[yahoo] .ctaAirpos {width:100%!important;margin:0 0 20px 0;}
+body[yahoo] .ipadAir { width: 165px!important; }
+body[yahoo] .ipadCopy { font-size: 13px!important; line-height: 20px!important; }
+/* Banner swaps */
+body[yahoo] .mobHead { height: 153px!important; background-size: 100% 100%; }
+body[yahoo] .khBanner { height: 178px!important; background-size: 100% 100%; }
+}
+ @media screen and (-webkit-min-device-pixel-ratio: 0) {
+body[yahoo] { zoom: 2; -webkit-transform-origin: 0 0; -webkit-transform: scale(0.5, 0.5); width: 200%; position: absolute; }
+body[yahoo] .textFix, body[yahoo] .blockTxt, body[yahoo] .mobileHeaders, body[yahoo] .nomTitle { background-image: url("http://currys-ng.cdn.e-merchant.com/css/themes/email/Assets/empty.gif"); background-repeat: repeat; }
+}

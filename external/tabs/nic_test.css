@@ -1,0 +1,153 @@
+a:focus, a:active {outline: none;} /* Firefox fix for yellow border on visited */
+section#anchor1.tsp.target:first-of-type p.tsp {display: none!important;} /* Remove Back to top on Desktop under tabs */
+
+/* See All links */
+a#salenowonviewalllink {float:right; margin-bottom: 10px; font-size:1.4em; font-weight:bold; text-decoration:none;}
+h1 img {max-width:100%;}
+
+/* Generic Responsive tabs */
+.Dixons_tab_wrapp {padding:0 0 25px; position:relative;}
+.Dixons_tab_wrapp nav {width:100%; margin:0; padding:0; overflow:hidden; }
+.Dixons_tab_wrapp nav ul {padding:0; margin:0;}
+.Dixons_tab_wrapp nav li {float:left; list-style:none; margin:0;}
+.Dixons_tab_wrapp nav a {width:100%; color:#000; *cursor:pointer; padding:0; margin:0; font-family: Arial, Helvetica, sans-serif; font-size: 1.2em; line-height:1em; font-weight:bold; display:block; text-decoration:none; text-align:center; border-width:0; box-shadow: inset 1px 1px 8px rgba(0,0,0,0.35); transition-property:background-color 0.5s ease; -moz-transition:background-color 0.5s ease; -webkit-transition:background-color 0.5s ease; -o-transition:background-color 0.5s ease;}
+.Dixons_tab_wrapp li span {height:30px; display:block; box-shadow: inset 0px 25px 17px 0px rgba(0, 0, 0, 0.1); border-style: solid; border-color:rgb(204, 204, 204); border-color:rgba(0, 0, 0, 0.15); border-width:0 1px 1px 1px;}
+
+/* IE 7 & 8 Fixes */
+.ie7 .Dixons_tab_wrapp nav a, .ie8 .Dixons_tab_wrapp nav a {
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#19000000', endColorstr='#00000000',GradientType=0 );}
+.ie7 .Dixons_tab_wrapp nav a:hover, .ie7 .Dixons_tab_wrapp nav a#current, .ie8 .Dixons_tab_wrapp nav a:hover, .ie8 .Dixons_tab_wrapp nav a#current {
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#19FFFFFF', endColorstr='#00000000',GradientType=0 );}
+.ie7 .Dixons_tab_wrapp nav a, .ie8 .Dixons_tab_wrapp nav a {font-size: 1em;}
+
+/* Currys Sale hover */
+#salewrap nav li a#current {color:#FFFFFF; background-color:#e01f26;}
+#salewrap nav li span {box-shadow:inset 1px 1px 8px transparent;} 
+#salewrap nav li a:hover {color:#FFFFFF; background-color:#e01f26;
+transition-property:background-color 0.8s ease; -moz-transition:background-color 0.8s ease; -webkit-transition:background-color 0.8s ease; -o-transition:background-color 0.8s ease;}
+
+
+/* Currys Core */
+#corecurrys nav li a#current {color:#FFFFFF; background:#2D2468;/* #1C367D */
+box-shadow: inset 0px 6px 13px 0px rgba(0,0,0,0.4); 
+transition-property:background-color 0.8s ease; -moz-transition:background-color 0.8s ease; -webkit-transition:background-color 0.8s ease; -o-transition:background-color 0.8s ease;}
+.ie7 #corecurrys nav li a#current, .ie8 #corecurrys nav li a#current {color:#FFFFFF; background:#1D428A;}
+#corecurrys nav li a#current span {box-shadow: inset 0px 20px 33px 0px rgba(0,83,159,0.8);} /* A #00539f*/
+#corecurrys nav li a:hover {color:#FFFFFF; background:#1D428A; /* ~ */
+transition-property:background-color 0.8s ease; -moz-transition:background-color 0.8s ease; -webkit-transition:background-color 0.8s ease; -o-transition:background-color 0.8s ease;}
+
+
+/* PCW Core */ 
+#corepcw nav li a#current {color:#FFFFFF; background:#75206E;
+box-shadow: inset 0px 6px 13px 0px rgba(0,0,0,0.35);
+transition-property:background-color 0.8s ease; -moz-transition:background-color 0.8s ease; -webkit-transition:background-color 0.8s ease; -o-transition:background-color 0.8s ease;}
+#corepcw nav li a#current span {box-shadow: inset 0px 25px 17px 0px #901c7a;} /* rgba(144,28,122,0.8)  B */
+#corepcw nav li a:hover {color:#FFFFFF; background:#811E73; /* ~ */
+transition-property:background-color 0.8s ease; -moz-transition:background-color 0.8s ease; -webkit-transition:background-color 0.8s ease; -o-transition:background-color 0.8s ease;}
+
+
+/* Clearance */ 
+#clearance nav li a#current {color:#FFFFFF; background:#000000;
+box-shadow: inset 0px 6px 13px 0px rgba(0,0,0,0.35);
+transition-property:background-color 0.8s ease; -moz-transition:background-color 0.8s ease; -webkit-transition:background-color 0.8s ease; -o-transition:background-color 0.8s ease;}
+#clearance nav li a#current span {box-shadow: inset 0px 25px 17px 0px #333333;} /* B */
+#clearance nav li a:hover {color:#FFFFFF; background:#000000; /* ~ */
+transition-property:background-color 0.8s ease; -moz-transition:background-color 0.8s ease; -webkit-transition:background-color 0.8s ease; -o-transition:background-color 0.8s ease;}
+#clearance nav li a:hover span {/*box-shadow: inset 0px 25px 17px 0px rgba(255, 255, 255, 0.2);*/
+transition-property:background-color 0.8s ease; -moz-transition:background-color 0.8s ease; -webkit-transition:background-color 0.8s ease; -o-transition:background-color 0.8s ease;*/}
+
+
+/* Taller tabs for a lot of text -> Add class to nav */
+#corecurrys .threelines li a#current span {box-shadow: inset 0 40px 25px 0 rgba(0,83,159,0.8);} /* A #00539F*/
+#corepcw .threelines li a#current span {box-shadow: inset 0 40px 25px 0 #991c84;} /* B */
+.Dixons_tab_wrapp .threelines li span {min-height:48px;}
+
+
+/* Dropdown */
+.Dixons_tab_wrapp nav li ul#dropdownnavsale li.subdrop a {background: #ffffff; font-weight: normal; box-shadow: inset 1px 1px 8px rgba(0,0,0,0.0); 
+filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);}
+.Dixons_tab_wrapp nav li ul#dropdownnavsale li.subdrop a:hover {color:#666666; transition: none 0s ease 0s;}
+.Dixons_tab_wrapp nav li ul#dropdownnavsale {width:100%; display:inline-block; position:absolute; left:0; margin:10px 0;}
+.Dixons_tab_wrapp nav li ul#dropdownnavsale li.subdrop {float: left; padding:0 20px 0 0;}
+
+
+/* Non Editable -> */
+.Dixons_tab_wrapp li a:visited {background: transparent #ffffff;}
+
+/* Two tabs */
+.Dixons_tab_wrapp nav li.two_tab {width:50%;}
+.Dixons_tab_wrapp nav li.two_tab a span {padding:2% 2%;}
+.Dixons_tab_wrapp nav li.two_tab:first-child {width:50%;}
+
+/* Three tabs */
+.Dixons_tab_wrapp nav li.three_tab {width:34%;}
+.Dixons_tab_wrapp nav li.three_tab a span {padding:3% 2%;}
+.Dixons_tab_wrapp nav li.three_tab:first-child {width:32%; *width:31%;}
+.Dixons_tab_wrapp nav li.three_tab:first-child a span {padding:3.2% 2%;}
+
+/* Four tabs */
+.Dixons_tab_wrapp nav li.four_tab {width:25%; *width:24.9%;}
+.Dixons_tab_wrapp nav li.four_tab a span {padding:4% 2%;}
+.Dixons_tab_wrapp nav li.four_tab:first-child {width:25%;}
+
+/* Five tabs */
+.Dixons_tab_wrapp nav li.five_tab {width:20%; *width:19.9%;}
+.Dixons_tab_wrapp nav li.five_tab a span {padding:5% 2%;}
+.Dixons_tab_wrapp nav li.five_tab:first-child {width:20%;}
+
+/* Six tabs */
+.Dixons_tab_wrapp nav li.six_tab {width:17%;}
+.Dixons_tab_wrapp nav li.six_tab a span {padding:6% 2%;}
+.Dixons_tab_wrapp nav li.six_tab:first-child {width:15%; *width:14%;}
+.Dixons_tab_wrapp nav li.six_tab:first-child a span {padding:6.8% 2%;}
+
+/* Seven tabs */
+.Dixons_tab_wrapp nav li.seven_tab {width:14%;}
+.Dixons_tab_wrapp nav li.seven_tab a span {padding:7% 2%; }
+.Dixons_tab_wrapp nav li.seven_tab:first-child {width:16%; *width:15%;}
+.Dixons_tab_wrapp nav li.seven_tab:first-child a span {padding:6.1% 2%;}
+
+/* Eight tabs */
+.Dixons_tab_wrapp nav li.eight_tab {width:12.5%;}
+.Dixons_tab_wrapp nav li.eight_tab a span {padding:7% 2%; }
+
+
+/* Nine tabs */
+.Dixons_tab_wrapp nav li.nine_tab {width:11%;}
+.Dixons_tab_wrapp nav li.nine_tab a span {padding:9% 2%;}
+.Dixons_tab_wrapp nav li.nine_tab:first-child {width:12%; *width:11.7%;}
+.Dixons_tab_wrapp nav li.nine_tab:first-child a span {padding:8.25% 5%; *padding:9% 0;}
+
+/* Ten tabs */
+.Dixons_tab_wrapp nav li.ten_tab {width:10%; *width:9.9%;}
+.Dixons_tab_wrapp nav li.ten_tab a span {padding:10% 1%; }
+
+
+/* Small desktop */
+@media only screen and (min-width: 998px) and (max-width: 1240px) {
+.Dixons_tab_wrapp nav a {font-size: 1em;}
+.Dixons_tab_wrapp .threelines li span {min-height:40px !important; padding:9% 5%}
+}
+
+/* Fix for mobile tabs */
+@media only screen and (min-width: 0px) and (max-width: 998px){
+section#anchor1.tsp.target:first-of-type p.tsp {display: block!important;} /* Put back: "back to top" for mobile view (under tabs) */
+#hidemob, .hidemob { display:none;}
+.Dixons_tab_wrapp nav a {font-size:1em;}
+.Dixons_tab_wrapp nav li a span {min-height:30px !important; padding:2% 0 0 0 !important; border:0;} /* height needs to be 30px */
+.Dixons_tab_wrapp nav li {width:100% !important; float:none; border:0;}
+/* Dropdown */
+.Dixons_tab_wrapp nav li ul#dropdownnavsale {width:100%; display:block; position:relative; left:0; margin:0;}
+.Dixons_tab_wrapp nav li ul#dropdownnavsale li.subdrop {float: none; padding:0;}
+.Dixons_tab_wrapp nav li ul#dropdownnavsale li.subdrop a {padding: 10px 0; }
+.Dixons_tab_wrapp #dropdownnavsale > li:last-of-type a {border-bottom:1px solid #ccc;}
+}
+
+/* Tablet size with left hand nav upto 768px wide */
+@media only screen and (min-width: 479px) and (max-width: 1023px){
+}
+	
+/* Small tablet Size portrait between 0px and 480px wide*/
+@media only screen and (min-width: 0px) and (max-width: 480px){
+}
+

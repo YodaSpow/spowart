@@ -1,0 +1,98 @@
+------- Master Template Contents ---------------------------------------------------------------->
+Info:
+Latest or newest builds need to go in the highest number i.e Currys_Master_Template5.html
+-------------------------------------------------------------------------------------------------
+PCW version:
+-------------------------------------------------------------------------------------------------
+Built from Currys - Swap out Header/Footer/CTA CSS & Colours for nomTitles:
+O:\Email Campaigns\_Assets\#masterTemplate\PCW
+
+---------------------------------------------------------------------------------------------------
+Master CSS file:
+-------------------------------------------------------------------------------------------------
+1) Used to keep the most up to date CSS in one place.
+2) You can remove unused bespoke code when not needed.
+
+<link href="master.css" rel="stylesheet" type="text/css" /><!-- DELETE AFTER TEST or email will glitch -->
+<style type="text/css">
+PASTE IMPORTED CSS HERE... REMOVE IMPORT CSS LINE ABOVE ^
+</style>
+
+/* Editable below */ is CRITICAL CSS relevant to all templates in their relevant media query sections.
+Code below means you can remove it.
+
+-------------------------------------------------------------------------------------------------
+CTA Links template:
+-------------------------------------------------------------------------------------------------
+O:\Email Campaigns\_Assets\Buttons and other
+O:/Email%20Campaigns/_Assets/Buttons%20and%20other/Currys_And_PCWorld_Assets.html
+
+-------------------------------------------------------------------------------------------------
+Image paths:
+All images for campaigns sit in Currys Prod 2 FTP: 
+
+Example Image paths:
+http://currys-ng.cdn.e-merchant.com/css/themes/email/2013-2014/wk25/WeeklyPromo/Main_Banner.jpg
+Root folder starts here: -------------------->
+-------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------
+Currys_Master_Template1:
+--------------------------------------------------------------------
+1) AMP Script - <body> at the top
+2) Sticky CTA - <body> at the top (Remove if not needed)
+2) Header - Navbar, Logo and Links
+3) Main banner - SWAP
+4) Main banner - STATIC
+5) Intro Text
+6) Hero Nom
+7) Full width 6x Brands
+8) Full width "See full range" strip
+9) Footer
+
+--------------------------------------------------------------------
+Currys_Master_Template2:
+--------------------------------------------------------------------
+1) 3x Noms
+2) 3x Noms - no saving
+3) 3x Noms with description
+4) 3x Noms - Reevoo
+5) 3x Noms - Reevoo no savings
+
+--------------------------------------------------------------------
+Currys_Master_Template3:
+--------------------------------------------------------------------
+1) 3x Banners
+2) 2x Noms
+3) 2x Noms - no savings
+4) 2x Noms - Reevoo
+5) 2x Noms - Reevoo no savings
+
+--------------------------------------------------------------------
+Currys_Master_Template4:
+--------------------------------------------------------------------
+1) 2x Banners
+2) Markup Full width Strip - "Buy Now Pay Later" with CTA
+3) Full width Banner with Device SWAP
+4) 5x RangeDeals - "Did you find what you were looking for?"
+5) Markup - "Did you Know? section
+
+--------------------------------------------------------------------
+Currys_Master_Template5:
+--------------------------------------------------------------------
+1) 2x Coupon Code - "In store code" & "Online code" with Save message & "When you spend &pound;200 or more*"
+2) 1x Coupon code
+3) 2x Noms Tall Images with 3x spec sections per Nom
+4) 3x Noms with description - Uneven text heights with direct CTA ONLY after text.
+5) Apple layout: iPhone
+
+--------------------------------------------------------------------
+Currys_Master_Template6:
+--------------------------------------------------------------------
+1) Apple layout: iPad
+2)
+3) 
+4) 
+5) 
+
